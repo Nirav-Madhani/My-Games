@@ -26,3 +26,21 @@ Numbers will appear for a moment and go away. Your mission is to remember them i
 
 [![Watch the video](https://user-images.githubusercontent.com/77914957/111761048-70f56f80-88c5-11eb-8cd8-cadd18bdeb69.png)](https://youtu.be/t-jZlEnUwm0)
 
+## Cosmic Chaos
+
+Cosmic Chaos is a 3D space shooter game.
+
+![gif](https://user-images.githubusercontent.com/77914957/111792676-7a450300-88ea-11eb-9df6-0e66d246ce13.gif)
+
+
+## Infinite Maze Runner
+
+Infinite Maze Runner is completely unique infinite runner game made for fun!
+
+Rules for the game are simple
+⇝ Collect points and survive for as long as possible.
+⇝ Just tap on screen to set destination.
+⇝ Your character will be able to find some route but he can really get struck sometimes and need your help
+⇝ Survive as long as possible!!
+
+![image](https://user-images.githubusercontent.com/77914957/111792795-9cd71c00-88ea-11eb-9a23-484d936b8119.png)
