@@ -31,7 +31,9 @@ AND IF YOU LIKE THE GAME AND CONCEPT, DON'T FORGET TO RATE 5 STARS._
 
 ## Stats
 
-v
+Lifetime Installs : About to hit 5000 soon!
+
+![temp](https://user-images.githubusercontent.com/77914957/111757929-dd6e6f80-88c1-11eb-8852-0b4fc262274b.png)
 
 
 [View On Play Store](https://play.google.com/store/apps/details?id=com.nirav.SRA)
