@@ -23,5 +23,6 @@ It ties the concept of stealth with classic roll a ball games. Collect the ornam
 
 Numbers will appear for a moment and go away. Your mission is to remember them in sequence and burst the bubbles accordingly
 
-[![Watch the video](https://images-eu.ssl-images-amazon.com/images/I/91KMYWnyubL.png)](https://youtu.be/t-jZlEnUwm0)
+
+[![Watch the video](https://user-images.githubusercontent.com/77914957/111761048-70f56f80-88c5-11eb-8cd8-cadd18bdeb69.png)](https://youtu.be/t-jZlEnUwm0)
 
