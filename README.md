@@ -50,3 +50,5 @@ Rules for the game are simple
 ⇝ Survive as long as possible!!
 
 ![image](https://user-images.githubusercontent.com/77914957/111792795-9cd71c00-88ea-11eb-9a23-484d936b8119.png)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-194674913-1/my-profile)](https://github.com/Nirav-Madhani)
