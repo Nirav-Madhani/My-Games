@@ -8,7 +8,7 @@ List of My Games:
 
  1. [Mission Mangalyaan](https://play.google.com/store/apps/details?id=com.nirav.SRA)
  2. [Roller Ball Stealth](https://play.google.com/store/apps/details?id=com.nirav.rbs)
- 3. [Memory Challanges](https://www.amazon.in/Nirav-Memory-Challenges/dp/B07VYM273Z) `[Currently  under review due to recent policy changes by google]`
+ 3. [Memory Challanges](https://play.google.com/store/apps/details?id=com.nirav.memorychallenge) 
  4. [Cosmic Chaos](https://play.google.com/store/apps/details?id=com.nirav.cc3d)
  5. [Infinite Maze Runner](https://play.google.com/store/apps/details?id=com.nirav.imr)
 
