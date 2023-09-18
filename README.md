@@ -16,12 +16,15 @@ List of My Games:
 
 Mission Mangalyaan is Orbital Physics Simulation Game where your **Mission** is to reach the **orbit** of the next planet without crashing into it or running out of fuel.
 
+[Video](https://youtu.be/E_GDblIpf54?si=6ctmzgofKdXY69gI) 
+
 ![image](https://user-images.githubusercontent.com/77914957/111795517-47e8d500-88ed-11eb-8485-f05a1696cba7.png)
 
 
 ## Roller Ball Stealth
 It ties the concept of stealth with classic roll a ball games.
 Collect the ornaments without geting spotted by guards and escape the level.
+
 
 ![image](https://user-images.githubusercontent.com/77914957/111795594-5c2cd200-88ed-11eb-8ae5-8f0e2829836f.png)
 
@@ -30,12 +33,15 @@ Collect the ornaments without geting spotted by guards and escape the level.
 
 Numbers will appear for a moment and go away. Your mission is to remember them in sequence and burst the bubbles accordingly
 
+[Video](https://youtu.be/t-jZlEnUwm0?si=zji9tS2SvhsRCG8K)
 
 [![Watch the video](https://user-images.githubusercontent.com/77914957/111761048-70f56f80-88c5-11eb-8cd8-cadd18bdeb69.png)](https://youtu.be/t-jZlEnUwm0)
 
 ## Cosmic Chaos
 
 Cosmic Chaos is a 3D space shooter game.
+
+[Video](https://youtu.be/jMh9Fm8CS3g?si=N38YCG2DQZ75j9Qy)
 
 ![Screenshot Image](https://play-lh.googleusercontent.com/DzDxpKQsCHnlBzcbjB3Q_wcocp6AITbH91vsJY5a1kEpCUSF0Xzo7mnSqfxsjFhxF23c=w720-h310)
 
